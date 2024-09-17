@@ -1,5 +1,9 @@
 # Structure of the Heart (Based on 2005_Surface_Anatomy_of_the_Heart.jpg)
 
+Claude 3.5 Sonnet
+
+------------
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/2005_Surface_Anatomy_of_the_Heart.jpg/1276px-2005_Surface_Anatomy_of_the_Heart.jpg" alt="Surface Anatomy of the Heart" height="500" />
 
 **>>> From this diagram alone, describe the structure of the heart.**

@@ -3,7 +3,7 @@
 
 Claude 3.5 Sonnet
 
-----------
+------------
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Venous_system_en.svg" alt="Image description" height="500" /> 
 

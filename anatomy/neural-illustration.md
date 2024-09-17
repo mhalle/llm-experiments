@@ -1,5 +1,9 @@
 # Nervous System Hierarchy (Based on Nervous_system_diagramen.svg.png)
 
+Claude 3.5 Sonnet
+
+------------
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Nervous_system_diagram-en.svg" alt="Nervous System Diagram" height="500" />
 
 **>>> From this diagram, provide a complete hierarchy of the nervous system in markdown format.**
