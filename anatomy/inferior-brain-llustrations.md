@@ -1,6 +1,6 @@
 # Brain Anatomy (Inferior View) Analysis
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Sobo_1909_623.png" alt="Sobo 1909 Brain Inferior View" width="400" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Sobo_1909_623.png/696px-Sobo_1909_623.png" alt="Sobo 1909 Brain Inferior View" width="400" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Gehirn%2C_basal_-_beschriftet_lat.svg" alt="Basal View Brain Diagram" width="400" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Henry_Gray_Figura_516.svg" alt="Henry Gray Brain Illustration" width="400" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Sobo_1909_3_548.png" alt="Sobo 1909 Arterial Brain View" width="400" />
