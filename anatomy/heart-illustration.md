@@ -90,7 +90,7 @@ Overall, this diagram is a high-quality, medically accurate representation of he
 
 # Combined Analysis of Multiple Heart Images (heartinterior.jpg)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Heart_diagram-en.svg" alt="Heart Interior Diagram" height="500" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Heart_diagram-en.svg/976px-Heart_diagram-en.svg.png" alt="Heart Interior Diagram" height="500" />
 
 **>>> Combine this image with the previous one. Describe the accuracy or inaccuracy of the illustrations with respect to known anatomic knowledge.**
 
